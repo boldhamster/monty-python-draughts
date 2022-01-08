@@ -1,0 +1,5 @@
+This draughts game runs over two consoles (e.g. 2 x gitbash or command prompt). Compile the java files, then run the Server class in one window, and the Client class in another.
+
+compile the java files by typing: javac *.java
+run the server by typing: java Server
+run the client by typing: java Client
