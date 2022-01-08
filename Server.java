@@ -1,4 +1,3 @@
-// 0904889y Emmet Young
 
 import java.io.IOException;
 import java.io.ObjectInputStream;

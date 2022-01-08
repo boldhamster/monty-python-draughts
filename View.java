@@ -1,4 +1,3 @@
-// 0904889y Emmet Young
 
 import javax.imageio.ImageIO;
 import javax.swing.*;
